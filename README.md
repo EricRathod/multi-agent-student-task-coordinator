@@ -46,19 +46,19 @@ flowchart LR
 
 ### Application and Planner Agent
 
-![Planner Agent output](screenshots/planner-output.png)
+<img width="659" height="590" alt="planner-output" src="https://github.com/user-attachments/assets/c750498b-c3f5-45e9-b891-1e17d265a737" />
 
 ### Research Agent
 
-![Research Agent output](screenshots/research-output.png)
+<img width="622" height="626" alt="research-output" src="https://github.com/user-attachments/assets/a383b294-ad77-4724-b4d0-c714a4fcb6f9" />
 
 ### Writer Agent
 
-![Writer Agent output](screenshots/writer-output.png)
+<img width="640" height="870" alt="writer-output" src="https://github.com/user-attachments/assets/9716db97-c747-4425-948e-14990d6efb5d" />
 
 ### Agent Communication Log
 
-![Communication log](screenshots/communication-log.png)
+<img width="659" height="129" alt="communication-log" src="https://github.com/user-attachments/assets/7ed0beac-36b0-4e1f-8895-458a1e1ce778" />
 
 ## Run in Google Colab
 
